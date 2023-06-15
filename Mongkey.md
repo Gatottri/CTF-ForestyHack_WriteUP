@@ -4,8 +4,9 @@
 <img width="364" alt="Cuplikan layar 2023-06-15 131041" src="https://github.com/Gatottri/CTF-ForestyHack_WriteUP/assets/134616676/655bc567-3513-4e6a-90d7-db1b6eeaf865">
 
 
-Diberikan sebuah website http://103.167.136.89:10002/ dengan tampilan :
-![Screenshot from 2023-06-13 23-32-03](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/a9bd5a88-8c40-4c30-a4a3-b1c17b0af079)
+Diberikan sebuah website 'http://103.167.136.89:10002/' dengan tampilan :
+
+<img width="959" alt="Cuplikan layar 2023-06-15 131119" src="https://github.com/Gatottri/CTF-ForestyHack_WriteUP/assets/134616676/6a5119ce-eb4f-4e56-9bed-6c34f3441682">
 
 # Solutions
 
