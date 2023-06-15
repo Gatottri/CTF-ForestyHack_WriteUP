@@ -8,5 +8,5 @@ ID : gatottriantono2003
 | Category | Challenge |
 | --- | --- |
 | Web Exploitation | [Sanity Check](Sanity_Check.md)
-| Web Exploitation | [Fortune Cookies]
+| Web Exploitation | [Fortune Cookies](Fortune_Cookies.md)
 | Web Exploitation | [Mongkey](Mongkey.md)
