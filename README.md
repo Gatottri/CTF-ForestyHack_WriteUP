@@ -5,4 +5,8 @@ ID : gatottriantono2003
 ## List Challenge
 
 ## Week 1
-
+| Category | Challenge |
+| --- | --- |
+| Web Exploitation | [Sanity Check]
+| Web Exploitation | [Fortune Cookies]
+| Web Exploitation | [Mongkey]
